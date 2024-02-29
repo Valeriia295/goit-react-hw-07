@@ -24,3 +24,25 @@
   composes: title;
   font-style: italic;
 }
+
+.loading {
+  color: rgb(0, 42, 255);
+  font-family: oswald;
+  font-size: 24px;
+  font-weight: 500;
+  text-transform: uppercase;
+  line-height: 1;
+  text-align: center;
+  margin: 45px 0;
+}
+
+.text {
+  color: rgb(255, 0, 64);
+  font-family: oswald;
+  font-size: 24px;
+  font-weight: 500;
+  text-transform: uppercase;
+  line-height: 1;
+  text-align: center;
+  margin: 45px 0;
+}
